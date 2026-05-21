@@ -1,0 +1,22 @@
+{
+    "credentials": {
+      "severity": "high",
+      "terms": ["login", "leaks", "password", "credentials", "combolist", "cookie", "account", "accounts"]
+    },
+    "financial": {
+      "severity": "critical",
+      "terms": ["carding", "cc", "cvv", "bin", "card", "paypal", "bank", "crypto"]
+    },
+    "tools": {
+      "severity": "medium",
+      "terms": ["openbullet", "checker", "cracking", "hacking", "tool", "exploit"]
+    },
+    "identity": {
+      "severity": "critical",
+      "terms": ["kyc", "id scan", "passport", "selfie", "document", "fullz"]
+    },
+    "malware": {
+      "severity": "high",
+      "terms": ["rat", "stealer", "malware", "ransomware", "botnet", "trojan"]
+    }
+  }
